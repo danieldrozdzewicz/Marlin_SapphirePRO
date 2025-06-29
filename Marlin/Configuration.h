@@ -1245,7 +1245,7 @@
  */
 #define DEFAULT_MAX_ACCELERATION      { 3000, 3000, 150, 10000 }  //Z 100 było
 //stary config:
-#define DEFAULT_MAX_ACCELERATION      { 2500, 2500, 150, 2000 }
+//#define DEFAULT_MAX_ACCELERATION      { 2500, 2500, 150, 2000 }
 
 
 
