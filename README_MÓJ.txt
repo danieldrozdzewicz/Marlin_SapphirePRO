@@ -1,5 +1,7 @@
 2025: 
-gdzies jest plik z temperaturami kt�ry trzeba zmienic by m�c wchodzic przy standardowym termistorze na wyzsze temperatury. chyba temperatures.h i daelj chyba do konkretnego pliku tego typu termistora ... 
+gdzies jest plik z temperaturami kt�ry trzeba zmienic by m�c wchodzic przy standardowym termistorze na wyzsze temperatury. chyba temperatures.h i daelj chyba do konkretnego pliku tego typu termistora ... 
+zauważyłem że mam taki config RX_BUFFER_SIZE 1024 - że odpala się SERiAL_XON_XOFF i to  można też  włączyć w ust usb com w windows
+ale bez tego Cura itp. też obsłuży tą opcję. 
 
 2024-04:
 zmiany w  w pins_robin_nano_common.h - dodalem cala sekcje !!!   HAS_TMC_UART 
